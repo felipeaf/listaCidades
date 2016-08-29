@@ -41,8 +41,8 @@ Por fim, basta executar o phantom passando o script main.js como parâmetro.
 
 Por exemplo, se você usar Microsoft Windows e descompactou o Phantom.js e este projeto em C:\, você pode rodar assim:
 
-cd C:\listaCidades
-C:\phantomjs-2.1.1-windows\bin\phantomjs main.js
+    cd C:\listaCidades
+    C:\phantomjs-2.1.1-windows\bin\phantomjs main.js
 
 ## Erros
 
@@ -61,7 +61,7 @@ abrir o arquivo corretamente.
 
 Um workaround para este problema é abrir em um software capaz de ler corretamente UTF-8 e salvar em outro formato. Ou ainda, abrir no bloco de notas
 do Microsoft Windows, e salvar com a codificação UTF-8. A partir daí o Excel é capaz de reconhecer a codificação correta do arquivo. Verificarei no futuro
-uma correção para este problema
+uma correção para este problema.
 
 ### O arquivo está todo numa linha só
 As quebras de linha do arquivo de saída estão no padrão Unix (apenas LF, o "\n" de muitas linguagens de programação), ao invés do padrão windows
