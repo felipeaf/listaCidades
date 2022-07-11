@@ -1,5 +1,7 @@
 # listaCidades
 
+**ATENÇÃO! PROJETO ARQUIVADO. Este script não funciona mais, dada mudanças em ambos os sites. Eu fiz para uma necessidade específica e não tenho intenções de voltar a atualizar.**
+
 Isto é um simples crawler que consulta o site do IBGE e dos CORREIOS
 para pegar as informações de faixa de CEP válidas e código do IBGE.
 
